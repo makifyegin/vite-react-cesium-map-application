@@ -23,7 +23,7 @@ export default function App() {
 
   // Don't forget to change your token
 
-  //Ion.defaultAccessToken = process.env.MY_TOKEN;
+  Ion.defaultAccessToken = process.env.MY_TOKEN;
 
   const flightData = (
     <Entity
