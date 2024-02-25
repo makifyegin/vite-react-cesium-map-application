@@ -1,0 +1,102 @@
+[
+    {
+        "icao": "4BAA46",
+        "callSign": "Robin",
+        "altitude": 1,
+        "speed": 374,
+        "track": 247,
+        "latitude": 53.42290,
+        "longitude": -6.2518,
+        "aircraftTime": "2023-11-02T17:14:18.3996925+03:00"
+    },
+    {
+        "icao": "4BAA49",
+        "callSign": "THY5LP  ",
+        "altitude": 50,
+        "speed": 0,
+        "track": 0,
+        "latitude": 53.42000,
+        "longitude": -6.25123,
+        "aircraftTime": "2023-11-02T17:14:09.7459866+03:00"
+    },
+    {
+        "icao": "4BB2AF",
+        "callSign": "THY7PZ  ",
+        "altitude": 20,
+        "speed": 0,
+        "track": 0,
+        "latitude": 53.44000,
+        "longitude": -6.25123,
+        "aircraftTime": "2023-11-02T17:13:57.1125716+03:00"
+    },
+    {
+        "icao": "8963E5",
+        "callSign": null,
+        "altitude": 0,
+        "speed": 495,
+        "track": 106,
+        "latitude": 53.43000,
+        "longitude": -6.25123,
+        "aircraftTime": "2023-11-02T17:14:07.389575+03:00"
+    },
+    {
+        "icao": "012345",
+        "callSign": "DMTST   ",
+        "altitude": 0,
+        "speed": 0,
+        "track": 0,
+        "latitude": 53.50000,
+        "longitude": -6.25123,
+        "aircraftTime": "2023-11-02T17:14:16.227726+03:00"
+    },
+    {
+        "icao": "4B82E5",
+        "callSign": "ALEV36  ",
+        "altitude": 0,
+        "speed": 0,
+        "track": 0,
+        "latitude": 53.42000,
+        "longitude": -6.25123,
+        "aircraftTime": "2023-11-02T17:14:11.4507197+03:00"
+    },
+    {
+        "icao": "4BAA46",
+        "callSign": "THY4ND  ",
+        "altitude": 31350,
+        "speed": 383,
+        "track": 246,
+        "latitude": 53.42000,
+        "longitude": -6.25123,
+        "aircraftTime": "2023-11-02T17:15:17.0059643+03:00"
+    },
+    {
+        "icao": "8963E5",
+        "callSign": "UAE6FJ  ",
+        "altitude": 41000,
+        "speed": 504,
+        "track": 106,
+        "latitude": 53.42000,
+        "longitude": -6.25123,
+        "aircraftTime": "2023-11-02T17:15:17.0605972+03:00"
+    },
+    {
+        "icao": "012345",
+        "callSign": "DMTST   ",
+        "altitude": 0,
+        "speed": 0,
+        "track": 0,
+        "latitude": 53.42000,
+        "longitude": -6.25123,
+        "aircraftTime": "2023-11-02T17:14:55.8839644+03:00"
+    },
+    {
+        "icao": "4BAA49",
+        "callSign": "THY5LP  ",
+        "altitude": 0,
+        "speed": 0,
+        "track": 0,
+        "latitude": 53.42000,
+        "longitude": -6.25123,
+        "aircraftTime": "2023-11-02T17:14:49.8423112+03:00"
+    }
+]
